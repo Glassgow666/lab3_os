@@ -6,7 +6,7 @@
 
 **Real life example:**
 
-![Image alt](https://github.com/VovaMaybeNextTime/Lab3OS/blob/main/res/Graphics.png)
+![Image alt](https://github.com/Glassgow666/lab3_os/blob/main/png/1.jpg)
 
 In this example, following things are to be considered:
 
@@ -40,9 +40,9 @@ Sometimes computers use LIFO when data is extracted from an array or data buffer
 
 **Simple representation of a stack runtime with push and pop operations**
 
-![Image alt](https://github.com/VovaMaybeNextTime/Lab3OS/blob/main/res/Graphics.png)
+![Image alt](https://github.com/Glassgow666/lab3_os/blob/main/png/2.png)
 
 
 ## Graphics
 
-![Image alt](https://github.com/VovaMaybeNextTime/Lab3OS/blob/main/res/Graphics.png)
+![Image alt](https://github.com/Glassgow666/lab3_os/blob/main/png/3.png)
