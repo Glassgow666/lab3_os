@@ -1,0 +1,11 @@
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.exe
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.deps.json
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.runtimeconfig.json
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.runtimeconfig.dev.json
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.dll
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\bin\Debug\netcoreapp3.1\lab3os.pdb
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\obj\Debug\netcoreapp3.1\lab3os.csprojAssemblyReference.cache
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\obj\Debug\netcoreapp3.1\lab3os.AssemblyInfoInputs.cache
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\obj\Debug\netcoreapp3.1\lab3os.AssemblyInfo.cs
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\obj\Debug\netcoreapp3.1\lab3os.dll
+C:\Users\PC_PBng\Desktop\lab3os\lab3os\obj\Debug\netcoreapp3.1\lab3os.pdb
